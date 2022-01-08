@@ -4,7 +4,6 @@
 #include <string.h>
 
 /*
-* 
 Instructions: 
 Compile in Visual Studio in 64-bit
 Generate Shellcode with msfvenom -p windows/x64/PAYLOAD/OF/CHOICE -f c++ -v payload
